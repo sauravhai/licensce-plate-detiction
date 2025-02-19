@@ -14,7 +14,7 @@ To predict the license plate number, the following things need to be done:
 The following datasets have been used for different purposes:
 1. **For license plate detection (YOLO)**: The dataset contains approximately 4000 annotated images of cars with license plates. The dataset can be found and downloaded from here https://data.mendeley.com/datasets/nx9xbs4rgx/2
 2. **For character recognition**: The dataset has about 1000 images of digits from 0-9 and alphabets from A-Z. You can find the dataset here [Character Dataset](data.zip)
-3. **For testing the whole model**: The dataset contains about 200 images of cars with license plates. You can find the dataset here https://drive.google.com/file/d/1QAFdt5Mq8X6fZud7kdsjaJbJfSXrsFse/view?usp=sharing
+
 
 ## Technologies/Languages Used
 - **Python**: This is the most sought language for implementing AI projects. The version used is python 3.6 here.
